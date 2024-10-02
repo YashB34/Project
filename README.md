@@ -1,3 +1,3 @@
-# New Project 
+# Project
 
-This project was created by our local system .
+This is on a local origin. 
